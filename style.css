@@ -1,0 +1,28 @@
+body {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#area {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  margin: 15px 15px;
+}
+
+.box__button {
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  padding: 0px;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
